@@ -1,2 +1,2 @@
-# docs-rest-style-guides
-REST Style Guides
+# REST Style Guides
+<br/>https://restfulapi.net/resource-naming/
